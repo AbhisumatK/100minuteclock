@@ -1,5 +1,6 @@
-## 100 seconds in 1 minute
-## 100 minutes in 1 hour
+# 100-Minute Clock
+#### 100 seconds in 1 minute
+#### 100 minutes in 1 hour
 
 # How it works:
 - Each hour is divided into 100 minutes
