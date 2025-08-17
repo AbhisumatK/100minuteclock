@@ -4,8 +4,8 @@
 
 # How it works:
 - Each hour is divided into 100 minutes
-- Each minute is divided into 100 seconds
-- Time feels faster, but duration stays the same!
+- Each minute is divided into 100 seconds 
+- Time feels faster, but duration stays the same! 
 
 # How to Install:
 - Download the zip folder from the 'Releases' section
